@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Ubuntu",
+            "includePath": [
+                "/home/blackhand/CS143/assignments/PA4/**",
+                "/home/blackhand/CS143/include/PA4/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c23",
+            "cppStandard": "gnu++23",
+            "intelliSenseMode": "linux-gcc-arm64",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

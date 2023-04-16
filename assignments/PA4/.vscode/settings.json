@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "unordered_set": "cpp",
+        "__availability": "cpp",
+        "typeinfo": "cpp"
+    }
+}

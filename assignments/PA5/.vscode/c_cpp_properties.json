@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "name": "linux-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "linux-gcc-x64",
+      "mergeConfigurations": false,
+      "browse": {
+        "path": [
+          "${workspaceFolder}/**",
+          "${workspaceFolder}/../../include/PA5/*",
+          "${workspaceFolder}/../../src/PA5/*"
+        ],
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "configurationProvider": "ms-vscode.makefile.tools"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": ["<", "ast.txt"],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/blackhand/CS143/assignments/PA5",
+      "program": "/home/blackhand/CS143/assignments/PA5/cgen",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+      ]
+    }
+  ]
+}
